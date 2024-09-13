@@ -1,0 +1,15 @@
+- title: blog
+  url: /
+  external: false
+
+- title: about
+  url: /about
+  external: false
+
+- title: music
+  url: /music
+  external: false
+
+- title: ideas
+  url: /ideas
+  external: false

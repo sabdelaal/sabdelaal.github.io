@@ -1,0 +1,48 @@
+<footer class="footer">
+  {%- if site.author.email -%}
+    <a class="footer_item" href="mailto:{{ site.author.email }}">contact</a>
+  {%- endif -%}
+  {%- if site.author.github -%}
+    <a class="footer_item" href="https://github.com/{{ site.author.github }}" rel="noreferrer" target="_blank">github</a>
+  {%- endif -%}
+  {%- if site.author.twitter -%}
+    <a class="footer_item" href="https://twitter.com/{{ site.author.twitter }}" rel="noreferrer" target="_blank">twitter</a>
+  {%- endif -%}
+  {%- if site.author.youtube -%}
+    <a class="footer_item" href="https://www.youtube.com/{{ site.author.youtube }}" rel="noreferrer" target="_blank">youtube</a>
+  {%- endif -%}
+  {%- if site.author.twitch -%}
+    <a class="footer_item" href="https://www.twitch.tv/{{ site.author.twitch }}" rel="noreferrer" target="_blank">twitch</a>
+  {%- endif -%}
+  {%- if site.author.patreon -%}
+    <a class="footer_item" href="https://www.patreon.com/{{ site.author.patreon }}" rel="noreferrer" target="_blank">patreon</a>
+  {%- endif -%}
+  {%- if site.author.linkedin -%}
+    <a class="footer_item" href="https://www.linkedin.com/in/{{ site.author.linkedin }}/" rel="noreferrer" target="_blank">linkedin</a>
+  {%- endif -%}
+  <a class="footer_item" href="/archive">archive</a>
+  <a class="footer_item" href="/tags">tags</a>
+  <a class="footer_item" href="/feed.xml">rss</a>
+  <span class="footer_item">&copy; {{ site.time | date: "%Y" }}</span>
+</footer>
+<script src="/assets/js/main.js" defer="defer"></script>
+
+{%- if jekyll.environment == "production" and site.google_analytics -%}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', '{{ site.google_analytics }}');
+  </script>
+{%- endif -%}
+{%- if page.url == '/archive' -%}
+  <script src="/assets/js/search.min.js"></script>
+  <script>
+    const sjs = SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('search-results'),
+      json: '/assets/search.json',
+    });
+  </script>
+{%- endif -%}
