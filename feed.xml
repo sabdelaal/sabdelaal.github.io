@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="https://sabdelaal.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sabdelaal.github.io/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2024-09-13T13:33:17+03:00</updated><id>https://sabdelaal.github.io/feed.xml</id><title type="html">Safwan Abdel Aal</title><subtitle>learning by doing</subtitle><author><name>Safwan Abdel Aal</name></author><entry><title type="html">Integrating Digital Twin Technology for Sustainable Management of Urban Infrastructure</title><link href="https://sabdelaal.github.io/research/digital-twin" rel="alternate" type="text/html" title="Integrating Digital Twin Technology for Sustainable Management of Urban Infrastructure" /><published>2024-09-12T14:00:00+03:00</published><updated>2024-09-12T14:00:00+03:00</updated><id>https://sabdelaal.github.io/research/digital-twin</id><content type="html" xml:base="https://sabdelaal.github.io/research/digital-twin"><![CDATA[<h1 id="integrating-digital-twin-technology-for-sustainable-management-of-urban-infrastructure"><span style="color:#be531c;">Integrating Digital Twin Technology for Sustainable Management of Urban Infrastructure</span></h1>
+
+<p>In today’s rapidly evolving urban landscapes, <strong>sustainability</strong> and <strong>resilience</strong> are key concerns when managing infrastructure. The combination of <strong>urbanization</strong>, <strong>climate change</strong>, and <strong>energy consumption</strong> calls for innovative solutions, such as <strong>Digital Twin Technology</strong>, to provide real-time insights into the life cycle of buildings and infrastructure.</p>
+
+<p>In this blog, I’ll guide you through the main aspects of my research, which focuses on applying <strong>Digital Twin Technology</strong> for conducting <strong>Dynamic Life Cycle Assessments (DLCA)</strong> to promote urban sustainability.</p>
+
+<p><img src="/assets/digital-twin/digital-twin.webp" alt="Digital Twin Icon" /></p>
+
+<h2 id="the-challenge-static-vs-dynamic-assessment"><span style="color:#be531c;">The Challenge: Static vs. Dynamic Assessment</span></h2>
+
+<p>Traditional building assessments often rely on static snapshots, overlooking the dynamic environmental impacts that evolve over time. This limitation can lead to <strong>missed opportunities</strong> for timely interventions to improve sustainability.</p>
+
+<p>Digital Twin technology offers a <strong>real-time</strong> solution by creating <strong>virtual replicas</strong> of physical buildings, allowing for continuous monitoring, predictive maintenance, and <strong>data-driven decision-making</strong>.</p>
+
+<h3 id="research-questions"><span style="color:#be531c;">Research Questions</span></h3>
+
+<p>These are the key questions shaping my research:</p>
+
+<ol>
+  <li><strong>How can Digital Twin technology be integrated into architectural practice for dynamic life cycle assessment?</strong></li>
+  <li><strong>What methodologies can help maintain Digital Twins specifically tailored to sustainability in urban environments?</strong></li>
+  <li><strong>How will implementing Digital Twins affect the resilience and sustainability of urban infrastructure?</strong></li>
+</ol>
+
+<h2 id="methodology"><span style="color:#be531c;">Methodology</span></h2>
+
+<p>To answer these questions, the research methodology integrates <strong>stakeholder input</strong>, <strong>data modeling</strong>, and <strong>advanced analytics</strong>:</p>
+
+<ul>
+  <li><strong>Stakeholder Analysis</strong>: Understanding the needs of urban planners, architects, and policymakers is crucial to developing practical Digital Twin solutions.</li>
+  <li><strong>Framework Development</strong>: A customized framework for integrating Digital Twin technology with <strong>Building Information Modeling (BIM)</strong> and sensor data.</li>
+  <li><strong>Real-world Case Studies</strong>: Testing Digital Twin platforms on actual buildings (e.g., commercial, residential, healthcare).</li>
+  <li><strong>Advanced Analytics</strong>: Using <strong>machine learning</strong> and <strong>AI algorithms</strong> to optimize building performance and sustainability outcomes.</li>
+</ul>
+
+<h3 id="data-integration"><span style="color:#be531c;">Data Integration</span></h3>
+
+<p>The core of the research lies in combining data from <strong>BIM</strong>, <strong>IoT sensors</strong>, and <strong>urban planning models</strong> to create a comprehensive Digital Twin platform.</p>
+
+<p><img src="/assets/digital-twin/building-lifecycle.png" alt="Building Lifecycle" /></p>
+
+<h2 id="creative-features"><span style="color:#be531c;">Creative Features</span></h2>
+
+<p>I’ve envisioned several creative features to make this platform both intuitive and powerful:</p>
+
+<ul>
+  <li><strong>Real-time Building Monitoring</strong>: Using live data from sensors to adjust energy consumption and optimize environmental performance.</li>
+  <li><strong>Customizable Dashboards</strong>: Offering tailored views for different stakeholders, such as building managers and urban planners.</li>
+  <li><strong>Mockup Preview</strong>: Stay tuned for a preview of our <strong>mockup dashboard</strong> showcasing how stakeholders can interact with live building data.</li>
+</ul>
+
+<p><img src="/assets/digital-twin/Mockup.webp" alt="Placeholder for Mockup" /></p>
+
+<p><em>This placeholder will be replaced by the actual mockup showcasing the integration of Digital Twin technologies.</em></p>
+
+<h2 id="roadmap"><span style="color:#be531c;">Roadmap</span></h2>
+
+<p>This project has been organized into a clear roadmap for development and implementation.</p>
+
+<p><img src="/assets/digital-twin/Roadmap.png" alt="Roadmap" /></p>
+
+<h2 id="expected-outcomes"><span style="color:#be531c;">Expected Outcomes</span></h2>
+
+<p>By implementing this <strong>Digital Twin</strong> solution, the project aims to achieve the following outcomes:</p>
+
+<ol>
+  <li><strong>Enhanced Data-Driven Decision-Making</strong>: Real-time data will allow urban stakeholders to make <strong>proactive decisions</strong> to improve building performance and sustainability.</li>
+  <li><strong>Improved Urban Resilience</strong>: As cities increasingly face environmental challenges, Digital Twin platforms will ensure urban infrastructure remains <strong>adaptive</strong> and <strong>resilient</strong> to change.</li>
+</ol>
+
+<blockquote>
+  <p>“Integrating dynamic data streams into architectural decision-making represents a paradigm shift toward real-time sustainability management.” – <a href="https://www.mdpi.com/2071-1050/13/2/480" target="_blank">Tagliabue, 2021</a></p>
+</blockquote>
+
+<h2 id="citations-and-resources"><span style="color:#be531c;">Citations and Resources</span></h2>
+
+<p>Throughout this research, I’ve relied on insights from thought leaders in the Digital Twin space, such as:</p>
+
+<ul>
+  <li><strong>Tagliabue (2021)</strong>: <em>Leveraging Digital Twins for Urban Sustainability</em> (<a href="https://www.mdpi.com/2071-1050/13/2/480" target="_blank">Link to Paper</a>)</li>
+  <li><strong>Khajavi et al. (2019)</strong>: <em>Digital Twin Technology for Sustainable Urban Management</em> (<a href="https://www.researchgate.net/publication/336375033_Digital_Twin_Vision_Benefits_Boundaries_and_Creation_for_Buildings" target="_blank">Link to Paper</a>)</li>
+  <li><strong>Russell-Smith (2011)</strong>: <em>Dynamic Life Cycle Assessment in Building Design</em> (<a href="https://www.researchgate.net/publication/269134041_Dynamic_Life_Cycle_Assessment_of_Building_Design_and_Retrofit_Processes" target="_blank">Link to Paper</a>)</li>
+</ul>
+
+<h2 id="conclusion"><span style="color:#be531c;">Conclusion</span></h2>
+
+<p>The integration of <strong>Digital Twin technology</strong> with <strong>Dynamic Life Cycle Assessments</strong> could redefine how we approach sustainability in urban infrastructure. This innovative approach provides <strong>real-time insights</strong>, helping cities and buildings adapt to environmental changes while minimizing their ecological footprint.</p>
+
+<p><strong>Want to know more?</strong> Feel free to reach out via email at <a href="mailto:safwanabdelaal@gmail.com">safwanabdelaal@gmail.com</a> or <a href="mailto:safwan.abdelaal@gju.edu.jo">safwan.abdelaal@gju.edu.jo</a> for further information or collaboration opportunities.</p>
+
+<h2 id="download-research-proposal">Download Research Proposal</h2>
+
+<p><a href="/assets/documents/Digital_Twins_platform_for_Dynamic_Life_Cycle_Assessment_of_Buildings.pdf"><img src="/assets/images/pdf-icon.svg" alt="PDF Version" class="pdf-icon" />Download Full PDF Version</a></p>
+
+<p>Stay tuned for more updates and a preview of the mockup dashboard!</p>]]></content><author><name>Safwan Abdel Aal</name></author><category term="research" /><category term="digital-twin," /><category term="sustainability," /><category term="urban-infrastructure," /><category term="dynamic-lca" /><summary type="html"><![CDATA[Integrating Digital Twin Technology for Sustainable Management of Urban Infrastructure]]></summary></entry><entry><title type="html">U-Value Calculator</title><link href="https://sabdelaal.github.io/tutorial/uvalue" rel="alternate" type="text/html" title="U-Value Calculator" /><published>2023-12-20T18:48:49+03:00</published><updated>2023-12-20T18:48:49+03:00</updated><id>https://sabdelaal.github.io/tutorial/uvalue</id><content type="html" xml:base="https://sabdelaal.github.io/tutorial/uvalue"><![CDATA[<h1 id="building-a-u-value-calculator-with-javascript">Building a U-Value Calculator with JavaScript</h1>
+
+<p>In this tutorial, we’ll guide you through using the U-Value Calculator script that we’ve built with JavaScript. This calculator allows you to assess the energy efficiency of different construction assemblies by calculating the U-Value.</p>
+
+<h2 id="prerequisites">Prerequisites</h2>
+
+<p>Before you begin, make sure you have the following:</p>
+
+<ul>
+  <li>Basic understanding of JavaScript, HTML, and CSS.</li>
+  <li>A text editor to modify the code.</li>
+  <li>A web browser to run the script.</li>
+</ul>
+
+<h2 id="getting-started">Getting Started</h2>
+
+<ol>
+  <li><strong>Download the Script:</strong>
+    <ul>
+      <li>Download the U-Value Calculator script from <a href="https://github.com/your-repo/uvalue-calculator">GitHub</a>.</li>
+    </ul>
+  </li>
+  <li><strong>Include Scripts in HTML:</strong>
+    <ul>
+      <li>Include the necessary scripts in your HTML file:
+        <div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  <span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"https://unpkg.com/@popperjs/core@2.11.6/dist/umd/popper.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
+  <span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"https://unpkg.com/tippy.js@6.3.1/dist/tippy-bundle.umd.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
+  <span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"uvalue-calculator.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
+  <span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"drawing.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
+  <span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"script.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
+</code></pre></div>        </div>
+      </li>
+    </ul>
+  </li>
+  <li><strong>HTML Structure:</strong>
+    <ul>
+      <li>Create the HTML structure for the U-Value Calculator in your HTML file. This will include elements for material selection, thickness input, layer display, and the result display.</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="adding-a-material">Adding a Material</h2>
+
+<p>To add a new material to the calculator, follow these steps:</p>
+
+<ol>
+  <li>
+    <p>Open the <code class="language-plaintext highlighter-rouge">manualMaterial.js</code> file.</p>
+  </li>
+  <li>
+    <p>Find the <code class="language-plaintext highlighter-rouge">materials</code> object, which contains predefined materials and their thermal conductivities.</p>
+  </li>
+  <li>
+    <p>Add a new material by appending a new key-value pair. For example:</p>
+    <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">materials</span><span class="p">[</span><span class="dl">"</span><span class="s2">New Material Name</span><span class="dl">"</span><span class="p">]</span> <span class="o">=</span> <span class="dl">"</span><span class="s2">Conductivity Value</span><span class="dl">"</span><span class="p">;</span>
+</code></pre></div>    </div>
+    <h2 id="using-the-calculator">Using the Calculator</h2>
+  </li>
+</ol>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">1.</span> Open your HTML file in a web browser.
+<span class="p">
+2.</span> Select a material from the dropdown menu.
+<span class="p">
+3.</span> Enter the thickness of the material.
+<span class="p">
+4.</span> Click the "Add Layer" button to add the material layer.
+<span class="p">
+5.</span> Repeat the process to add additional layers.
+<span class="p">
+6.</span> Click the "Calculate U-Value" button to calculate the overall U-Value.
+<span class="p">
+7.</span> View the calculated U-Value in the result section.
+</code></pre></div></div>
+
+<h2 id="screenshot">Screenshot</h2>
+
+<p><img src="/assets/u-value/overview.png" alt="U-Value Calculator" /></p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Congratulations! You’ve successfully used the U-Value Calculator script. You can customize and extend the functionality based on your project requirements.</p>
+
+<p>Feel free to explore the code and experiment with adding materials to suit your specific needs. If you encounter any issues or have questions, refer to the documentation or reach out to the script’s maintainers on GitHub.</p>
+
+<p>Happy calculating!</p>]]></content><author><name>Safwan Abdel Aal</name></author><category term="tutorial" /><category term="javascript" /><category term="web-development" /><category term="energy-efficiency" /><summary type="html"><![CDATA[Building a U-Value Calculator with JavaScript]]></summary></entry></feed>
