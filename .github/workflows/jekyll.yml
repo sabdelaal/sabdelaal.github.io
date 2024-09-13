@@ -3,7 +3,7 @@ name: Build and Deploy Jekyll Site
 on:
   push:
     branches:
-      - main  # or the branch you use
+      - main  # or your branch
 
 jobs:
   build:
@@ -16,11 +16,11 @@ jobs:
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 2.7 # Use the Ruby version GitHub Pages uses
+        ruby-version: 2.7 # GitHub Pages uses Ruby 2.7
 
-    - name: Install Jekyll and Bundler
+    - name: Install Bundler
       run: |
-        gem install bundler
+        gem install bundler -v 2.4.22
         bundle install
 
     - name: Build Jekyll site
