@@ -53,8 +53,8 @@ Exploring novel technologies is something I thoroughly enjoy engaging in during 
 
 ### Open Source Projects
 
-[Article Critique App](https://github.com/sabdelaal/article_critique_app) - Article Critique Web App Documentation.
-[GJU GPT](https://github.com/sabdelaal/gju_gpt) - This tool enable you to look at find the email address for staff and professors in German Jordanian University.
+[Article Critique App](https://github.com/sabdelaal/article_critique_app) - Article Critique Web App Documentation.  
+[GJU GPT](https://github.com/sabdelaal/gju_gpt) - This tool enable you to look at find the email address for staff and professors in German Jordanian University.  
 [U-Value Calculator](https://github.com/sabdelaal/u-value_calculator) - This calculator allows you to assess the energy efficiency of different construction assemblies by calculating the U-Value. 
 
 ### Skills
