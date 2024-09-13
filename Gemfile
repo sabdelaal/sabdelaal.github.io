@@ -1,9 +1,10 @@
 source "https://rubygems.org"
 
-# Use the GitHub Pages gem to ensure compatibility
 gem "github-pages", group: :jekyll_plugins
 
-# Optional: Other plugins
+# Add Nokogiri version compatible with Ruby 2.7
+gem "nokogiri", "~> 1.13.0"
+
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-sitemap"
