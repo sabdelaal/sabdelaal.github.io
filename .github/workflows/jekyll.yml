@@ -3,7 +3,7 @@ name: Build and Deploy Jekyll Site
 on:
   push:
     branches:
-      - main  # or the branch you use
+      - main
 
 jobs:
   build:
@@ -16,20 +16,19 @@ jobs:
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 2.7 # Use Ruby 2.7, compatible with GitHub Pages
+        ruby-version: 2.7
 
     - name: Install Bundler
       run: |
         gem install bundler -v 2.4.22
         bundle install
 
-    - name: Clean cache and build Jekyll site
-      run: |
-        rm -rf _site .jekyll-cache
-        bundle exec jekyll build
+    - name: Build Jekyll site
+      run: bundle exec jekyll build
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        personal_token: ${{ secrets.PERSONAL_TOKEN }}
+        external_repository: sabdelaal/sabdelaal.github.io
         publish_dir: ./_site
