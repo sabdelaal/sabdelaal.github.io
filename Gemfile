@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
-# Add Nokogiri version compatible with Ruby 2.7
+# Use a version of Nokogiri compatible with Ruby 2.7
 gem "nokogiri", "~> 1.13.0"
 
 group :jekyll_plugins do
