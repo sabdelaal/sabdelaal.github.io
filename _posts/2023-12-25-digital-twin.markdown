@@ -20,6 +20,10 @@ Traditional building assessments often rely on static snapshots, overlooking the
 
 Digital Twin technology offers a **real-time** solution by creating **virtual replicas** of physical buildings, allowing for continuous monitoring, predictive maintenance, and **data-driven decision-making**.
 
+![Traditional vs. Digital Twin](/assets/digital-twin/tr-vs-dt.png)
+
+*This image illustrates the key differences between traditional building assessments and the more dynamic, real-time approach offered by Digital Twin technology.*
+
 ### <span style="color:#be531c;">Research Questions</span>
 
 These are the key questions shaping my research:
@@ -60,6 +64,12 @@ I've envisioned several creative features to make this platform both intuitive a
 This project has been organized into a clear roadmap for development and implementation.
 
 ![Roadmap](/assets/digital-twin/Roadmap.png)
+
+## <span style="color:#be531c;">Radar Graph</span>
+
+Below is a radar graph that visually represents the data integration and performance across key sustainability metrics.
+
+![Radar Graph](/assets/digital-twin/radant.png)
 
 ## <span style="color:#be531c;">Expected Outcomes</span>
 
