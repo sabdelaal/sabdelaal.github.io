@@ -67,9 +67,9 @@ This project has been organized into a clear roadmap for development and impleme
 
 ## <span style="color:#be531c;">Radar Graph</span>
 
-Below is a radar graph that visually represents the data integration and performance across key sustainability metrics.
+Below is a radar graph that visually represents the data integration and performance across key sustainability metrics. The **gray area** represents traditional assessments, while the **orange area** represents the enhanced capabilities provided by Digital Twin technology.
 
-![Radar Graph](/assets/digital-twin/radant.png)
+<img src="/assets/digital-twin/radant.png" alt="Radar Graph" width="600px">
 
 ## <span style="color:#be531c;">Expected Outcomes</span>
 
