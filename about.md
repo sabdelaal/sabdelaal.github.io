@@ -6,8 +6,6 @@ excerpt: Hello, I am Safwan! Welcome to my personal space :)
 comments: false
 ---
 
-## About Me
-
 I am **Safwan Abdallah Abdel Aal**, an Architect with a passion for integrating cutting-edge technology into architecture. With a **Master's in Global BIM Management** from [ZIGURAT Institute of Technology](https://www.e-zigurat.com/) in Spain and an **MBA in Management** from [The University of Jordan](https://www.ju.edu.jo/), my educational background combines advanced management practices with the latest in digital construction technologies.
 
 ### Research Interests
