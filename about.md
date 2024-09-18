@@ -5,17 +5,6 @@ layout: page
 excerpt: Hello, I am Safwan! Welcome to my personal space :)
 comments: false
 ---
-
-I am **Safwan Abdallah Abdel Aal**, an Architect with a passion for integrating cutting-edge technology into architecture. With a **Master's in Global BIM Management** from [ZIGURAT Institute of Technology](https://www.e-zigurat.com/) in Spain and an **MBA in Management** from [The University of Jordan](https://www.ju.edu.jo/), my educational background combines advanced management practices with the latest in digital construction technologies.
-
-### Research Interests
-
-My research focuses on **sustainable building practices** and **environmentally-conscious design**, particularly at the intersection of **Artificial Intelligence (AI)**, **Photogrammetry**, **Virtual Reality (VR)**, and **Augmented Reality (AR)**. I am passionate about exploring how these technologies can enhance **AI-human collaboration** in architectural design, driving creativity while addressing ethical implications.
-
-I aim to merge **sustainability** with **innovative design processes** to create more resilient, adaptive, and efficient built environments. My goal is to not only improve architectural practices but also to make significant contributions to the global challenge of climate change by integrating **AI and BIM technologies** with **environmentally responsible solutions**.
-
----
-
 <div class="social-icon-outer">
   <div class="social-icon-container">
   <a href="https://github.com/sabdelaal">
@@ -52,6 +41,13 @@ I aim to merge **sustainability** with **innovative design processes** to create
 
   </div>
 </div>
+I am **Safwan Abdallah Abdel Aal**, an Architect with a passion for integrating cutting-edge technology into architecture. With a **Master's in Global BIM Management** from [ZIGURAT Institute of Technology](https://www.e-zigurat.com/) in Spain and an **MBA in Management** from [The University of Jordan](https://www.ju.edu.jo/), my educational background combines advanced management practices with the latest in digital construction technologies.
+
+### Research Interests
+
+My research focuses on **sustainable building practices** and **environmentally-conscious design**, particularly at the intersection of **Artificial Intelligence (AI)**, **Photogrammetry**, **Virtual Reality (VR)**, and **Augmented Reality (AR)**. I am passionate about exploring how these technologies can enhance **AI-human collaboration** in architectural design, driving creativity while addressing ethical implications.
+
+I aim to merge **sustainability** with **innovative design processes** to create more resilient, adaptive, and efficient built environments. My goal is to not only improve architectural practices but also to make significant contributions to the global challenge of climate change by integrating **AI and BIM technologies** with **environmentally responsible solutions**.
 
 ---
 
