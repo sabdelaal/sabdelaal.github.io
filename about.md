@@ -2,24 +2,37 @@
 title: Hey, it's me
 permalink: /about
 layout: page
-excerpt: Hello, i am Felix! Welcome to my personal space :)
+excerpt: Hello, I am Safwan! Welcome to my personal space :)
 comments: false
 ---
+
+## About Me
+
+I am **Safwan Abdallah Abdel Aal**, an Architect with a passion for integrating cutting-edge technology into architecture. With a **Master's in Global BIM Management** from [ZIGURAT Institute of Technology](https://www.e-zigurat.com/) in Spain and an **MBA in Management** from [The University of Jordan](https://www.ju.edu.jo/), my educational background combines advanced management practices with the latest in digital construction technologies.
+
+### Research Interests
+
+My research focuses on **sustainable building practices** and **environmentally-conscious design**, particularly at the intersection of **Artificial Intelligence (AI)**, **Photogrammetry**, **Virtual Reality (VR)**, and **Augmented Reality (AR)**. I am passionate about exploring how these technologies can enhance **AI-human collaboration** in architectural design, driving creativity while addressing ethical implications.
+
+I aim to merge **sustainability** with **innovative design processes** to create more resilient, adaptive, and efficient built environments. My goal is to not only improve architectural practices but also to make significant contributions to the global challenge of climate change by integrating **AI and BIM technologies** with **environmentally responsible solutions**.
+
+---
+
 <div class="social-icon-outer">
   <div class="social-icon-container">
-  <a href="https://github.com/{{ site.github_username }}">
+  <a href="https://github.com/sabdelaal">
       <svg class="social-icon-image" width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path fill-rule="evenodd" clip-rule="evenodd" d="M7 0C3.1325 0 0 3.21173 0 7.17706C0 10.3529 2.00375 13.0353 4.78625 13.9863C5.13625 14.0491 5.2675 13.8338 5.2675 13.6454C5.2675 13.4749 5.25875 12.9097 5.25875 12.3087C3.5 12.6406 3.045 11.8691 2.905 11.4653C2.82625 11.259 2.485 10.622 2.1875 10.4516C1.9425 10.317 1.5925 9.98508 2.17875 9.97611C2.73 9.96714 3.12375 10.4964 3.255 10.7118C3.885 11.7973 4.89125 11.4923 5.29375 11.3039C5.355 10.8374 5.53875 10.5234 5.74 10.3439C4.1825 10.1645 2.555 9.54549 2.555 6.80026C2.555 6.01976 2.82625 5.37382 3.2725 4.87143C3.2025 4.692 2.9575 3.95635 3.3425 2.96951C3.3425 2.96951 3.92875 2.78111 5.2675 3.70516C5.8275 3.54367 6.4225 3.46293 7.0175 3.46293C7.6125 3.46293 8.2075 3.54367 8.7675 3.70516C10.1063 2.77214 10.6925 2.96951 10.6925 2.96951C11.0775 3.95635 10.8325 4.692 10.7625 4.87143C11.2087 5.37382 11.48 6.01079 11.48 6.80026C11.48 9.55446 9.84375 10.1645 8.28625 10.3439C8.54 10.5682 8.75875 10.9988 8.75875 11.6717C8.75875 12.6316 8.75 13.4032 8.75 13.6454C8.75 13.8338 8.88125 14.0581 9.23125 13.9863C11.9963 13.0353 14 10.3439 14 7.17706C14 3.21173 10.8675 0 7 0Z" fill="#73737D"></path>
       </svg>
     </a>
   
-  <a href="{{ site.scholar_username }}">
+  <a href="https://scholar.google.com/{{ site.scholar_username }}">
       <svg class="social-icon-image" width="14" height="18" viewBox="0 0 384 512" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path fillrule="evenodd" cliprule="evenodd" d="M 343.75868,106.66243 V 79.430205 L 363.52365,63.999997 H 149.63354 L 20.476345,176.2736 h 85.656075 c -0.15534,2.12494 -0.21914,4.04644 -0.21914,6.22563 0,20.84472 7.2192,38.08662 21.67203,51.86089 14.45284,13.79702 32.25124,20.64784 53.32651,20.64784 4.92319,0 9.75059,-0.36794 14.43842,-1.02419 -2.90722,6.50082 -4.37457,12.52302 -4.37457,18.14228 0,9.87526 4.49924,20.4304 13.46715,31.6418 -39.23377,2.6705 -68.06112,9.73264 -86.43702,21.16322 -10.53108,6.49907 -19.000207,14.70396 -25.390349,24.5311 -6.390569,9.89933 -9.577754,20.51525 -9.577754,31.9616 0,9.64822 2.062375,18.33611 6.21907,26.06233 4.156694,7.7263 9.577757,14.07047 16.312223,18.98408 6.71825,4.96781 14.46899,9.10088 23.219,12.46874 8.73429,3.34378 17.40643,5.71858 26.06106,7.06258 8.62707,1.34222 17.20471,1.9985 25.70579,1.9985 13.46887,0 26.95353,-1.73428 40.54711,-5.18707 13.56165,-3.48461 26.28022,-8.64143 38.17105,-15.4927 11.85935,-6.80488 21.51545,-16.0865 28.9219,-27.7183 7.39024,-11.67998 11.09457,-24.80499 11.09457,-39.33613 0,-11.01584 -2.24964,-21.03852 -6.7502,-30.14073 -4.46864,-9.07202 -9.93785,-16.54102 -16.45271,-22.34403 -6.5008,-5.81263 -12.99987,-11.15539 -19.51512,-15.9679 -6.50083,-4.84488 -12.00021,-9.75058 -16.46884,-14.8129 -4.4848,-5.04657 -6.73444,-10.05419 -6.73444,-14.98395 0,-4.92145 1.73422,-9.67183 5.21588,-14.26559 3.45451,-4.6095 7.67376,-9.04795 12.60967,-13.30571 4.93756,-4.24944 9.87523,-8.96788 14.79665,-14.13302 4.92147,-5.14719 9.14072,-11.82739 12.60971,-20.00822 3.48467,-8.17907 5.20318,-17.44489 5.20318,-27.75679 0,-13.4527 -2.54714,-24.46065 -7.54735,-33.31348 -0.59369,-1.02243 -1.21757,-1.80338 -1.87511,-3.02225 l 56.90745,-46.672136 v 17.118526 c -7.39373,0.92969 -6.62422,5.34582 -6.62422,10.6352 v 128.66719 c 0,5.95832 4.8751,10.83382 10.83386,10.83382 h 3.98869 c 5.95835,0 10.83386,-4.87506 10.83386,-10.83382 V 117.29282 c 0,-5.27669 0.77741,-9.68801 -6.56167,-10.63039 z M 236.39865,329.14114 c 1.14099,0.7503 3.7039,2.78075 7.7184,6.03838 4.0495,3.24319 6.797,5.69582 8.26567,7.41432 1.43851,1.66381 3.5792,4.16501 6.37617,7.54734 2.81268,3.3744 4.7184,6.30394 5.71853,8.73425 1.00016,2.4767 2.01603,5.46089 3.04636,8.94556 0.98567,3.44488 1.48486,6.97595 1.48486,10.56169 0,17.04813 -6.56338,29.68007 -19.65604,37.85915 -13.125,8.18083 -28.76651,12.27368 -46.93767,12.27368 -9.18709,0 -18.2031,-1.09289 -27.06247,-3.1951 -8.84322,-2.11665 -17.31192,-5.3362 -25.39035,-9.60185 -8.07846,-4.25771 -14.57754,-10.20337 -19.50072,-17.79659 -4.93764,-7.64012 -7.40645,-16.41464 -7.40645,-26.24962 0,-10.32022 2.79692,-19.28987 8.42233,-26.90588 5.59343,-7.62564 12.93774,-13.3919 22.03208,-17.3154 9.0624,-3.94582 18.24946,-6.74232 27.56166,-8.39827 9.31221,-1.7023 18.79679,-2.555 28.43842,-2.555 4.46862,0 7.93582,0.25115 10.40465,0.69607 0.45456,0.21918 3.03188,2.07025 7.73456,5.56326 4.70401,3.46237 7.62565,5.59519 8.75047,6.38401 z m -3.35823,-100.5779 c -7.40648,8.85938 -17.73454,13.2882 -30.95363,13.2882 -11.85933,0 -22.29766,-4.76482 -31.26554,-14.31195 -8.99984,-9.52309 -15.42235,-20.32803 -19.34408,-32.43061 -3.93752,-12.10871 -5.90585,-23.98423 -5.90585,-35.648 0,-13.6942 3.59542,-25.35184 10.7809,-34.97598 7.18727,-9.64952 17.49915,-14.48477 30.93786,-14.48477 11.87507,0 22.37423,5.03825 31.43704,15.15677 9.09434,10.08482 15.60961,21.41303 19.5169,33.96799 3.92176,12.5392 5.87345,24.52979 5.87345,35.98399 0,13.44658 -3.70256,24.60984 -11.07663,33.45436 z" fill="#73737D"></path>
       </svg>
     </a>
 
-  <a href="https://instagram.com/{{ site.instagram_username }}">
+  <a href="https://instagram.com/sabdelaal">
 <svg class="social-icon-image" width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
   <path fill-rule="evenodd" clip-rule="evenodd" d="M-3.05176e-05 3.97163C-3.05176e-05 1.77803 1.77824 -0.000244141 3.97184 -0.000244141H9.0281C11.2217 -0.000244141 13 1.77802 13 3.97163V9.02788C13 11.2215 11.2217 12.9998 9.0281 12.9998H3.97184C1.77824 12.9998 -3.05176e-05 11.2215 -3.05176e-05 9.02789V3.97163ZM3.97184 1.281C2.48585 1.281 1.28122 2.48564 1.28122 3.97163V9.02789C1.28122 10.5139 2.48585 11.7185 3.97184 11.7185H9.0281C10.5141 11.7185 11.7187 10.5139 11.7187 9.02788V3.97163C11.7187 2.48564 10.5141 1.281 9.0281 1.281H3.97184Z" fill="#73737D"></path>
   <path fill-rule="evenodd" clip-rule="evenodd" d="M3.07483 6.55115C3.07483 4.64454 4.61242 3.09253 6.51702 3.09253C8.42162 3.09253 9.95921 4.64454 9.95921 6.55115C9.95921 8.45776 8.42162 10.0098 6.51702 10.0098C4.61242 10.0098 3.07483 8.45776 3.07483 6.55115ZM6.51702 4.37378C5.32709 4.37378 4.35608 5.34508 4.35608 6.55115C4.35608 7.75722 5.32709 8.72853 6.51702 8.72853C7.70695 8.72853 8.67796 7.75722 8.67796 6.55115C8.67796 5.34508 7.70695 4.37378 6.51702 4.37378Z" fill="#73737D"></path>
@@ -27,14 +40,13 @@ comments: false
 </svg>
 </a>
 
-  <a href="https://linkedin.com/{{ site.linkedin_username }}">
+  <a href="https://linkedin.com/in/safwanabdelaal">
   <svg class="social-icon-image" width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
     <path fill-rule="evenodd" clip-rule="evenodd" d="M3.59615 13.125H0.871552V4.36523H3.59615V13.125ZM2.24847 3.16406C1.81878 3.16406 1.44769 3.00781 1.13519 2.69531C0.822692 2.38281 0.666443 2.01171 0.666443 1.58203C0.666443 1.15234 0.822692 0.781248 1.13519 0.468749C1.44769 0.156249 1.81878 0 2.24847 0C2.67816 0 3.04925 0.156249 3.36175 0.468749C3.67425 0.781248 3.8305 1.15234 3.8305 1.58203C3.8305 2.01171 3.67425 2.38281 3.36175 2.69531C3.04925 3.00781 2.67816 3.16406 2.24847 3.16406ZM13.7915 13.125H11.0669V8.84765C11.0669 8.14452 11.0083 7.63671 10.8911 7.32421C10.6763 6.79687 10.2563 6.5332 9.63134 6.5332C9.00634 6.5332 8.56689 6.76757 8.31298 7.23632C8.11767 7.58788 8.02001 8.10546 8.02001 8.78905V13.125H5.32471V4.36523H7.93212V5.5664H7.96142C8.15673 5.17578 8.46923 4.85351 8.89892 4.59961C9.36767 4.28711 9.91454 4.13086 10.5395 4.13086C11.8091 4.13086 12.6977 4.53125 13.2055 5.33203C13.5962 5.97656 13.7915 6.97265 13.7915 8.3203V13.125Z" fill="#73737D"></path>
   </svg>
 </a>
 
-
-<a href="mailto:{{ site.email }}">
+<a href="mailto:safwanabdelaal@gmail.com">
   <svg class="social-icon-image" width="20" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
     <path fill-rule="evenodd" clip-rule="evenodd" fill="none" d="M3 3h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm17 4.238l-7.928 7.1L4 7.216V19h16V7.238zM4.511 5l7.55 6.662L19.502 5H4.511z"></path>
   </svg>
@@ -43,19 +55,13 @@ comments: false
   </div>
 </div>
 
-I am Safwan, an **Architect** living in _([Jordan](https://en.wikipedia.org/wiki/Jordan#:~:text=Jordan%20is%20a%20semi%2Darid,a%20mostly%20Arab%20Christian%20minority.))_ born in 1995.
-
-I am Architect graduate from [Jordan University of Science and Technology](http://www.just.edu.jo/), with a Master's degree in Management from [The University of Jordan](https://www.ju.edu.jo/).
-
-After completing my Master's, I have been actively involved in teaching, research, and contributing to the field of architecture. I am dedicated to finding innovative solutions and enhancing the built environment. Currently, I am a Teaching and Research Assistant at [German Jordanian University](https://www.gju.edu.jo/).
-
-Exploring novel technologies is something I thoroughly enjoy engaging in during my free time. I am passionate about implementing innovative approaches to address real-world challenges in architecture.
+---
 
 ### Open Source Projects
 
 [Article Critique App](https://github.com/sabdelaal/article_critique_app) - Article Critique Web App Documentation.  
-[GJU GPT](https://github.com/sabdelaal/gju_gpt) - This tool enable you to look at find the email address for staff and professors in German Jordanian University.  
-[U-Value Calculator](https://github.com/sabdelaal/u-value_calculator) - This calculator allows you to assess the energy efficiency of different construction assemblies by calculating the U-Value. 
+[GJU GPT](https://github.com/sabdelaal/gju_gpt) - A tool to help find email addresses for staff and professors at German Jordanian University.  
+[U-Value Calculator](https://github.com/sabdelaal/u-value_calculator) - A calculator to assess the energy efficiency of different construction assemblies by calculating the U-Value. 
 
 ### Skills
 
@@ -68,6 +74,8 @@ Exploring novel technologies is something I thoroughly enjoy engaging in during 
   - Autodesk 3ds Max
   - Lumion 11
   - Design Builder
+  - Leica Cyclone
+  - RealityCapture
   - Adobe Photoshop, Premiere, InDesign, Illustrator
   - Geographic Information Systems (GIS)
 
