@@ -49,8 +49,6 @@ My research focuses on **sustainable building practices** and **environmentally-
 
 I aim to merge **sustainability** with **innovative design processes** to create more resilient, adaptive, and efficient built environments. My goal is to not only improve architectural practices but also to make significant contributions to the global challenge of climate change by integrating **AI and BIM technologies** with **environmentally responsible solutions**.
 
----
-
 ### Open Source Projects
 
 [Article Critique App](https://github.com/sabdelaal/article_critique_app) - Article Critique Web App Documentation.  
